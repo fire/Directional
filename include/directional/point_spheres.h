@@ -12,6 +12,7 @@
 #include <vector>
 #include <cmath>
 #include <Eigen/Core>
+#define M_PI 3.14159265358979323846264338327950288
 #include <igl/igl_inline.h>
 
 
